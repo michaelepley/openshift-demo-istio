@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+ISTIO_VERSION=0.6.0
+ISTIO_HOME=./istio-${ISTIO_VERSION}
+
+ISTIO_OSEXT_OPTIONS=(oxs linux)
+ISTIO_OSEXT=${ISTIO_OSEXT_OPTIONS[1]}

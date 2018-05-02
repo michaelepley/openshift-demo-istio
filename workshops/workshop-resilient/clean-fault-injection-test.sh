@@ -1,0 +1,1 @@
+oc delete -f samples/bookinfo/kube/route-rule-reviews-test-v2.yaml -f samples/bookinfo/kube/route-rule-ratings-test-delay.yaml
